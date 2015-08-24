@@ -1,6 +1,6 @@
-Project subission for udacity nanodegree - project 1
-===
+Project subission for Udacity nanodegree - project 1
+=
 Popular movies app
-==
+=
 
 
